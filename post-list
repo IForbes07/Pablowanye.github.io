@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>The Digital Detective - My Blog</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Tech & Justice</h1>
+        <nav>
+            <a href="index.html">Home</a> | 
+            <a href="about.html">About</a>
+        </nav>
+    </header>
+
+    <article>
+        <h2>The Digital Detective: How AI is Revolutionizing Murder Investigations</h2>
+        <p><em>Published: January 21, 2026</em></p>
+
+        <p>The classic image of a homicide investigation often involves a weary detective hunched over a desk scattered with grainy polaroids. Today, Artificial Intelligence has become a silent partner in solving these crimes.</p>
+
+        <h3>Real-Time Detection</h3>
+        <p>In many modern "smart cities," AI is the first to know a crime has occurred. Systems like ShotSpotter use microphones to triangulate gunshots within seconds, often alerting police before a 911 call is even placed.</p>
+
+        <h3>Digital Forensics</h3>
+        <p>Perhaps the most significant way AI finds out about murders is by "interrogating" digital ghosts. AI tools scan terabytes of text messages, GPS coordinates, and search histories to find patterns—like a suspect searching for cleaning supplies shortly after a crime.</p>
+
+        <h3>Biological Analysis</h3>
+        <p>AI has moved the "CSI lab" into the future. DNA Phenotyping uses machine learning to predict a suspect's physical appearance—eye color, hair color, and facial structure—from just a drop of blood.</p>
+
+        <hr>
+        <p><a href="index.html">← Back to Home</a></p>
+    </article>
+
+    <footer>
+        <p>&copy; 2026 My Student Blog</p>
+    </footer>
+</body>
+</html>
